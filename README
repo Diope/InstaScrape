@@ -1,3 +1,3 @@
-# Instascrape
+#Instascrape
 
 Technically not a web scraper since I'm using Instagram API for this but uh yea, just some good ol JS/Node learnings by doings. Feel free to do whatever to it. Going to refactor this once I get a better grasp on how Express4 works. The file structure is no bueño and app.js is doing too much.
